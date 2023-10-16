@@ -28,7 +28,7 @@ const Header = () => {
   return (
     <div className="header">
       
-      <p className="logo">SCET HYD PLACEMENT CELL</p>
+      <p className="logo">Tapaswi Placement cell</p>
       <div className="header-right">
         <form onSubmit={handleSubmit} style={{ display: "inline" }}>
           <input
