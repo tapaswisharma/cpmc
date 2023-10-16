@@ -155,7 +155,7 @@ const AddEdit = () => {
           value={department || ""}
           onChange={handleInputChange}
         />
-        <label htmlFor="rollnumber">JNTUH - Roll Number</label>
+        <label htmlFor="rollnumber">collage - Roll Number</label>
         <input
           type="text"
           id="rollnumber"
